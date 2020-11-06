@@ -1,0 +1,134 @@
+@media all and (max-width: 800px) {
+    .mobile-float {
+        float: left !important;
+    }
+
+    .mobile-float .bagde {
+        margin:10px auto;
+    }
+    
+    .content-header {
+        padding-top:0px;
+    }
+
+    .content-header h1 {
+        font-size:50px;
+        line-height:70px;
+        margin-top:30px;
+    }
+
+    .btn-purple {
+        width : 100%;
+        margin-bottom: 70px;
+    }
+
+    .phone-header {
+        width:95%;
+        margin-left: 7%;
+    }
+
+    .testimonial {
+      height: 100%;
+    }
+
+    .quote {
+        font-size: 200px;
+    }
+
+    .heading-testimonial {
+        width:80%;
+    }
+
+    .heading-testimonial h2 {
+      box-sizing:border-box;
+      font-size:35px;
+      width:200px;
+      line-height:50px;
+      margin: 111px 0px 0px 94px;
+      right: 0;
+      left:0;
+    }
+
+    .heading-testimonial p {
+      position: static;
+      width: 200px;
+      box-sizing:border-box;
+      margin-left:98px;
+      margin-top:80px;
+    }
+
+    .box-1, .box-2, .box-3 {
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom:90px;
+        margin-top:40px;
+        width:90%;
+    }
+
+    .box-1 {
+        margin-top:420px;
+    }
+
+    .stat {
+        text-align:center;
+        height: 100%;
+    }
+
+    .stat h2 {
+        font-size:40px;
+        line-height:48px;   
+    }
+
+    .feature h3 {
+        font-size:16px;
+        line-height:30px
+    }
+
+    .stat img {
+        margin:8px 29% 20px 10%;
+    }
+
+    .screen img {
+        margin-top:30px;
+    }
+    
+    .feature-2{
+        text-align:center;
+    }
+
+    .feature-2  h3 {
+        margin-top:40px;
+    }
+
+    .feature-3 {
+        text-align:center;
+    }
+
+    .feature-3  h3 {
+        margin-top:0px;
+        margin-bottom:60px;
+    }
+
+    .feature-3 img {
+        margin-top:10px;
+    }
+    
+    .feature-4 {
+        text-align:center;
+    }
+
+    .feature-4 p {
+        margin-top:30px;
+    }
+
+    .feature-4 .bagde{
+        margin-bottom:30px;
+        margin-left:0px !important;
+    }
+
+    .img-mockup-1{
+        margin-top:30px;
+        margin-left:5%;
+        margin-right:5%;
+    }
+}
